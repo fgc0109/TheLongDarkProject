@@ -1,0 +1,6 @@
+[submodule "TheLongDarkSaveEditorTranslate"]
+	path = TheLongDarkSaveEditorTranslate
+	url = git@github.com:fgc0109/TheLongDarkSaveEditorTranslate.git
+[submodule "TLD-Save-Editor"]
+	path = TLD-Save-Editor
+	url = git@github.com:fgc0109/TLD-Save-Editor.git
